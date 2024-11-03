@@ -1,4 +1,4 @@
-# Bekhruz (Brian) Kasymov
+# Bekhruz Kasymov
 
 ## 🚀 DevOps Engineer | Cloud Solutions Architect | Infrastructure Automation Specialist
 
