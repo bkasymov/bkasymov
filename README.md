@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Innovative DevOps Engineer with 4+ years of experience in developing robust infrastructure and seamlessly integrating products. Expertise in building scalable CI/CD pipelines, managing infrastructure as code, and implementing cutting-edge monitoring solutions for real-time insights. Currently completing an internship at Qantev, enhancing advanced DevOps practices (concluding August 2024).
+Innovative DevOps Engineer with 5+ years of experience in developing robust infrastructure and seamlessly integrating products. Expertise in building scalable CI/CD pipelines, managing infrastructure as code, and implementing cutting-edge monitoring solutions for real-time insights. Currently completing an internship at Qantev, enhancing advanced DevOps practices (concluding August 2024).
 
 🎓 Ecole 42 (Paris, France) | 📚 Kutafin Moscow State Law University (MSAL)
 
@@ -17,10 +17,10 @@ Innovative DevOps Engineer with 4+ years of experience in developing robust infr
 - **Cloud Platforms**: AWS, GCP, Azure, DigitalOcean
 - **Containerization & Orchestration**: Docker, Kubernetes, OpenShift
 - **CI/CD**: Jenkins, GitLab CI, GitHub Actions
-- **Infrastructure as Code**: Terraform, Ansible
-- **Monitoring & Observability**: Prometheus, Grafana
+- **Infrastructure as Code**: Terraform, Ansible, OpenTofu
+- **Monitoring & Observability**: Prometheus, Grafana, Loki
 - **Scripting & Programming**: Python, C, Shell Scripting
-- **Database Management**: PostgreSQL, Redis
+- **Database Management**: PostgreSQL, Redis, MongoDB
 - **Security**: Implementing robust security measures and best practices
 
 ### 💼 Professional Highlights
